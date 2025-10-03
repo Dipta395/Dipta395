@@ -41,12 +41,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipta-karmakar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=F75C7E" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta-karmakar&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=7DF9FF&currStreakLabel=7DF9FF" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipta395&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=F75C7E" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta395r&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=7DF9FF&currStreakLabel=7DF9FF" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipta-karmakar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipta395&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="mailto:diptakarmakar395@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Dipta-karmakar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Dipta395"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -63,5 +63,5 @@
 <p align="center"><i>“Strive for progress, not perfection.”</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dipta-karmakar&label=Profile%20views&color=7DF9FF&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Dipta395&label=Profile%20views&color=7DF9FF&style=flat" alt="Profile Views"/>
 </p>
