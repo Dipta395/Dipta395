@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dipta395&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=F75C7E" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta395r&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=7DF9FF&currStreakLabel=7DF9FF" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipta395&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=7DF9FF&currStreakLabel=7DF9FF" height="180px"/>
 </p>
 
 <p align="center">
